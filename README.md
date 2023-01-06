@@ -1,4 +1,4 @@
-# HTube
+# H*ntaiTube
 It's just [YouTube Revanced Extended](https://github.com/inotia00/ReVanced_Extended) with a funny name.
 # Note
 | Version | Note |
