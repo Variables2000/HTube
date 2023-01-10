@@ -6,3 +6,7 @@ fn Main() {
     sum = sum + x 
   }
 }
+
+fn Square(x: i32) -> i32 {
+  x*x
+}
