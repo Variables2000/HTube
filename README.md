@@ -5,7 +5,7 @@ It's just [YouTube Revanced Extended](https://github.com/inotia00/ReVanced_Exten
 # 2. Note
 | Version | Note | CTRL Value | gdOS Support |
 | :-: | :-: | :-: | :-: |
-| H*ntaiTube XT | Test version. Might be unstable. Use with caution. | 0 | Yes |
+| H*ntaiTube XT | Test version. Might be unstable. Use with caution. | 0 | ***Yes*** |
 | H*ntaiTube XS | **Stable** version. | 1 | Unverified |
 | H*ntaiTube XR | *Maintainence.* | 2 | Unverified |
 | H*ntaiTube XX | It doesn't exist. | i | Unverifiable |
