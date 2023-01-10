@@ -1,4 +1,4 @@
-![image](https://github.com/Variables2000/HTube/blob/main/Banner-3.6xt.jpg)
+![image](https://github.com/Variables2000/HTube/blob/main/Banner.jpg)
 
 # 1. H*ntaiTube
 It's just [YouTube Revanced Extended](https://github.com/inotia00/ReVanced_Extended) with a funny name.
