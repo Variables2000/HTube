@@ -8,7 +8,6 @@ It's just [YouTube Revanced Extended](https://github.com/inotia00/ReVanced_Exten
 | H*ntaiTube XT | Test version. Might be unstable. Use with caution. | 0 | ***Yes*** |
 | H*ntaiTube XS | **Stable** version. | 1 | Unverified |
 | H*ntaiTube XR | *Maintainence.* | 2 | Unverified |
-| H*ntaiTube XX | It doesn't exist. | i | Unverifiable |
 # 3. Credit
 [inotia00](https://github.com/inotia00) and [reisxd](https://github.com/reisxd) for the [rvx-builder](https://github.com/inotia00/rvx-bilder).
 
@@ -19,3 +18,8 @@ A term coined by ████████ and ███████████�
 
 # 5. What is not CTRL Value?
 Refer to [Document 000](https://github.com/Variables2000/HTube/blob/main/README.md).
+
+# 6. Installation
+<ins>**Step 1:**</ins> Install the microG.apk
+<ins>**Step 2:**</ins> Install the HTube.apk according to your SoC's architecture.
+<ins>**Step 3:**</ins> Enjoy!
