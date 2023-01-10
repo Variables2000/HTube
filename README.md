@@ -20,6 +20,6 @@ A term coined by ████████ and ███████████�
 Refer to [Document 000](https://github.com/Variables2000/HTube/blob/main/README.md).
 
 # 6. Installation
-<ins>**Step 1:**</ins> Install the microG.apk
-<ins>**Step 2:**</ins> Install the HTube.apk according to your SoC's architecture.
-<ins>**Step 3:**</ins> Enjoy!
+* <ins>**Step 1:**</ins> Install the microG.apk 
+* <ins>**Step 2:**</ins> Install the HTube.apk according to your SoC's architecture.
+* <ins>**Step 3:**</ins> Enjoy!
